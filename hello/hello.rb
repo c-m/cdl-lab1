@@ -1,3 +1,1 @@
-# comm
-
-puts Hello, #{ARGV.first}!
+Hello, #{ARGV.first}!
